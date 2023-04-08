@@ -10,6 +10,10 @@
 ## Credits
 ⁍ https://www.deviantart.com/bisbiswas
 
-⁍ https://www.positrondream.com/wallpapers-all 
+⁍ https://www.positrondream.com/wallpapers-all
+
+⁍ https://www.artstation.com/alicehaundraws
+
+⁍ https://wiki.debian.org/DebianDesktop/Artwork
 
 ⁍ https://wallpaperhub.app/
