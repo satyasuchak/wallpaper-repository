@@ -1,10 +1,6 @@
-<h2 align="center">
-  <samp>WALLPAPERS</samp>
-</h2>
-
-<p align="center">
-  <samp>REPOSITORY</samp>
-</p>
+<h1 align="center">
+    <samp>WALLPAPERS REPOSITORY</samp>
+</h1>
 
 ---
 
@@ -38,7 +34,8 @@
 ---
 
 <p align="center">
-  ⚠️<br>
-  For suggestions, bugs, etc., <br>report <a href="https://github.com/satyasuchak/wallpaper-repository/issues">here</a>.
+  ⚠️
+  For suggestions, bugs, etc., <br>
+  report <a href="https://github.com/satyasuchak/wallpaper-repository/issues">here</a>.
 </p>
 >>>>>>> 3e6e1e9 (upgrade / docs: readme)
