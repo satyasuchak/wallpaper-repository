@@ -24,6 +24,8 @@
 
 - https://imgur.com/a/q6i58
 
+- https://wallpaperhub.app/
+
 ---
 
 <p align="center">
@@ -31,5 +33,3 @@
   For suggestions, bugs, etc., <br>
   report <a href="https://github.com/satyasuchak/wallpaper-repository/issues">here</a>.
 </p>
-=======
-⁍ https://wallpaperhub.app/
