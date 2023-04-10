@@ -2,7 +2,7 @@
     <samp>WALLPAPERS REPOSITORY</samp>
 </h1>
 
-### Informations
+### About
 
 - Just some wallpapers, you can add some if you like!
 
@@ -30,6 +30,6 @@
 
 <p align="center">
   ⚠️
-  For suggestions, bugs, etc., <br>
+  For suggestions, bugs, etc. <br>
   report <a href="https://github.com/satyasuchak/wallpaper-repository/issues">here</a>.
 </p>
