@@ -5,7 +5,7 @@
 
 • You can leave sources of wallpapers(artist handles, deviant art links etc.) in the README.
 
-• Since we have not sorted out the wallpapers it is recommended to clone this repository and browse through it using an image viewer.
+• ~~Since we have not sorted out the wallpapers it is recommended to clone this repository and browse through it using an image viewer.~~ Took me like 30 minutes to sort everything - onion
 
 ## Credits
 ⁍ https://www.deviantart.com/bisbiswas
