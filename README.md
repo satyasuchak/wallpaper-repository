@@ -1,15 +1,35 @@
-# wallpaper-repository
-• Just some wallpapers, you can add some if you like!
+<h1 align="center">
+    <samp>WALLPAPERS REPOSITORY</samp>
+</h1>
 
-• Plug yourself here if you've contributed.
+### Informations
 
-• You can leave sources of wallpapers(artist handles, deviant art links etc.) in the README.
+- Just some wallpapers, you can add some if you like!
 
-• Since we have not sorted out the wallpapers it is recommended to clone this repository and browse through it using an image viewer.
+- Plug yourself here if you've contributed.
 
-## Credits
-⁍ https://www.deviantart.com/bisbiswas
+- You can leave sources of wallpapers(artist handles, deviant art links etc.) in the README.
 
-⁍ https://www.positrondream.com/wallpapers-all 
+- Since we have not sorted out the wallpapers it is recommended to clone this repository and browse through it using an image viewer.
 
+### Credits
+
+- https://www.deviantart.com/bisbiswas
+
+- https://www.positrondream.com/wallpapers-all
+
+- https://www.artstation.com/alicehaundraws
+
+- https://wiki.debian.org/DebianDesktop/Artwork
+
+- https://imgur.com/a/q6i58
+
+---
+
+<p align="center">
+  ⚠️
+  For suggestions, bugs, etc., <br>
+  report <a href="https://github.com/satyasuchak/wallpaper-repository/issues">here</a>.
+</p>
+=======
 ⁍ https://wallpaperhub.app/
