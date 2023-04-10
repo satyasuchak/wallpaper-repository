@@ -10,7 +10,7 @@
 
 - You can leave sources of wallpapers(artist handles, deviant art links etc.) in the README.
 
-- Since we have not sorted out the wallpapers it is recommended to clone this repository and browse through it using an image viewer.
+- It is recommended to clone this repository and browse through it using an image viewer.
 
 ### Credits
 
